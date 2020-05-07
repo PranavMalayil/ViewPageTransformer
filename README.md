@@ -50,6 +50,8 @@ viewPager.setPageTransformer(
         )
 </code></pre>
 
+ ![til](./Gifs/20200507_114140.gif)
+
 
 
 
