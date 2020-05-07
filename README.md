@@ -59,8 +59,6 @@ viewPager.setPageTransformer(
 ![til](./Gifs/20200507_114140.gif)  |  ![til](./Gifs/20200507_122718[1].gif) |  ![til](./Gifs/20200507_124543[1].gif)
 
 
-20200507_124543[1].gif
-
 
 
 
