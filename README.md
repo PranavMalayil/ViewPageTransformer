@@ -54,9 +54,12 @@ viewPager.setPageTransformer(
 
 
  
- CLOCK SPIN TRANSFORMATION             |  HORIZONTAL FLIP TRANSFORMATION
-:-------------------------:|:-------------------------:
-![til](./Gifs/20200507_114140.gif)  |  ![til](./Gifs/20200507_122718[1].gif)
+ CLOCK SPIN TRANSFORMATION             |  HORIZONTAL FLIP TRANSFORMATION |  FADE TRANSFORMATION
+:-------------------------:|:-------------------------:|:-------------------------:
+![til](./Gifs/20200507_114140.gif)  |  ![til](./Gifs/20200507_122718[1].gif) |  ![til](./Gifs/20200507_124543[1].gif)
+
+
+20200507_124543[1].gif
 
 
 
