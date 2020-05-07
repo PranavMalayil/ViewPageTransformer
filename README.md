@@ -52,10 +52,11 @@ viewPager.setPageTransformer(
 
 ### And some styles ###
 
-#### CLOCK SPIN TRANSFORMATION ####
- ![til](./Gifs/20200507_114140.gif)
- #### HORIZONTAL FLIP TRANSFORMATION ####
- ![til](./Gifs/20200507_122718[1].gif)
+
+ 
+ CLOCK SPIN TRANSFORMATION             |  HORIZONTAL FLIP TRANSFORMATION
+:-------------------------:|:-------------------------:
+![til](./Gifs/20200507_114140.gif)  |  ![til](./Gifs/20200507_122718[1].gif)
 
 
 
